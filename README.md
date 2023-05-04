@@ -1,2 +1,2 @@
 # Coin-Gecko-API
-Consumiendo API de CoinGecko utilizando Tailwindcss.
+Consumiendo API de CoinGecko-Exchanges utilizando Tailwindcss.

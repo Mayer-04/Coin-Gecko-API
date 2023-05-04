@@ -1,0 +1,15 @@
+{
+  "name": "coin-gecko-api",
+  "version": "1.0.0",
+  "description": "Consumiendo API de CoinGecko utilizando Tailwindcss.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i src/tailwind.css -o public/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
